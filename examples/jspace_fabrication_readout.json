@@ -1,0 +1,12 @@
+{
+  "source": "example_j_lens_export",
+  "terms": [
+    "manipulation",
+    "realistic",
+    "fake"
+  ],
+  "summary": "Example J-space-like readout flags possible data fabrication.",
+  "confidence": 0.89,
+  "layer": "example-layer",
+  "raw_ref": "example-only"
+}

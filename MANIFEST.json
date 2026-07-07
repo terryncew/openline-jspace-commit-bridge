@@ -1,0 +1,114 @@
+{
+  "repo": "openline-jspace-commit-bridge",
+  "created_at_unix": 1783465981,
+  "claim": "Bridge J-space-like workspace readouts to an OpenLine verified commit barrier.",
+  "test_status": "passed",
+  "claim_boundary": "Prototype adapter pattern only; no real Anthropic J-space access; no Anthropic endorsement; no consciousness claim.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "4ef7409580ccccaef6fde11c30485a2510978a775865beab2617c267ec9b2aae",
+      "bytes": 85
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "4ec7aa4814aca8adfd82d8f1a7dc4e37720bb54c9abb1219bf834cefc22c89e3",
+      "bytes": 423
+    },
+    {
+      "path": "README.md",
+      "sha256": "a213d3f55e189c2e775de9796d6668372bbe24144c858fd4dadf615a97221aea",
+      "bytes": 2736
+    },
+    {
+      "path": "RUN_REPORT.json",
+      "sha256": "4a144a4be7e022d2b8fa2445302e2252de5cf594ec08010e1485b26f00761933",
+      "bytes": 8302
+    },
+    {
+      "path": "docs/ADAPTER_SPEC.md",
+      "sha256": "47208e37610ecb30227c51ba536d1194fde4fd11c2e0c9223deb9ac5a6b213eb",
+      "bytes": 388
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "sha256": "505b7955691d1db49009f8a6fb7c75437b90761d30c00f2f8958c8e8b2d2beb3",
+      "bytes": 534
+    },
+    {
+      "path": "docs/CLAIM_BOUNDARY.md",
+      "sha256": "32f31c587e2ee2718c0a072a0496a3eccad0e1b27facde3e5fdcc61d9440db03",
+      "bytes": 464
+    },
+    {
+      "path": "examples/jspace_fabrication_readout.json",
+      "sha256": "22c1bfdddd618a2141d4ed3d260f575c3b4728b72e5b062467558cb7cdec1a52",
+      "bytes": 262
+    },
+    {
+      "path": "examples/jspace_prompt_injection_readout.json",
+      "sha256": "d5f7de461b8cc0ed003e1e3e8d7a207e7fd793c4ab56ed2706bb1b6973e0a0f4",
+      "bytes": 243
+    },
+    {
+      "path": "launch/thread_copy.md",
+      "sha256": "af6964037925e396e103e5d647792366f8bb373a21b9a931a7b207a62e0c1564",
+      "bytes": 660
+    },
+    {
+      "path": "openline_jspace_commit_bridge/__init__.py",
+      "sha256": "2f33b4166b4a18ea5071d4894b52c9cbd5ec77de33ec9bf4fa9d3b33e6c8c0fb",
+      "bytes": 234
+    },
+    {
+      "path": "openline_jspace_commit_bridge/adapters.py",
+      "sha256": "5de5254db31447010c2ad3c75f7d8d6723f94a6b0fca8c598e46dffedce184f8",
+      "bytes": 2336
+    },
+    {
+      "path": "openline_jspace_commit_bridge/commit_barrier.py",
+      "sha256": "243143310ea7756631abce4586bc3e2346863208f2a1365d1714eb7c60addbff",
+      "bytes": 2325
+    },
+    {
+      "path": "openline_jspace_commit_bridge/demo.py",
+      "sha256": "4507f5c42005f160a29657c1666aab841a3e7a549a6566ec726f58e521a379a2",
+      "bytes": 2559
+    },
+    {
+      "path": "openline_jspace_commit_bridge/receipts.py",
+      "sha256": "e54fbb3e6bdf1bccfd07dfa7d62c6e4c917e8b7f65f20f9cb8abcb537cdbd7cc",
+      "bytes": 2240
+    },
+    {
+      "path": "openline_jspace_commit_bridge/schemas.py",
+      "sha256": "ec7a70361b8c9429302969af6c176493ea5963d0976b06bdedc065b6c27473fa",
+      "bytes": 2095
+    },
+    {
+      "path": "openline_jspace_commit_bridge/witnesses.py",
+      "sha256": "c3bc46596b5fb5d93e42c24e02da0e054ffcf2f08b93c8353c9e024d8a377853",
+      "bytes": 2866
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "b5e1e921b362abcd3e26ae18432686aaf691780a46d16b973063068a96fd1ff3",
+      "bytes": 351
+    },
+    {
+      "path": "receipts/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "receipts/demo_receipts.jsonl",
+      "sha256": "16b225b32b5eb25e63e75bce13c21be4c04b2681edde3ee087dfd62abe5d4b0c",
+      "bytes": 6156
+    },
+    {
+      "path": "tests/test_commit_bridge.py",
+      "sha256": "9ed6322e0f586abd51eeaedd8b7cc5e403c77267dd8ebbfa2a2a95e6c256a35e",
+      "bytes": 1707
+    }
+  ]
+}

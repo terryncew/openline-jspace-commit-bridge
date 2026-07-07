@@ -1,0 +1,11 @@
+{
+  "source": "example_j_lens_export",
+  "terms": [
+    "injection",
+    "fake"
+  ],
+  "summary": "Example J-space-like readout flags a prompt injection attempt.",
+  "confidence": 0.91,
+  "layer": "example-layer",
+  "raw_ref": "example-only"
+}
